@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "input": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
